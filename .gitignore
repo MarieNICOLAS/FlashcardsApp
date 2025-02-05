@@ -1,0 +1,14 @@
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Base SQLite
+database.db
+
+# Environnement virtuel
+venv/
+.env
+
+# Fichiers de log
+*.log
